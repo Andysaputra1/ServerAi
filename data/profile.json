@@ -1,0 +1,226 @@
+{
+  "profile": {
+    "full_name": "Andy Saputra",
+    "headline": "Undergraduate Computer Science Student (System Intelligence ) at Binus University | Passionate about Innovation & Leadership",
+    "summary": "As a Computer Science student majoring in Artificial Intelligence, I possess strong enthusiasm and eagerness to learn across fields, including technology, broadcasting, and more. My diverse experiences have broadened my perspectives, enhanced my communication skills, and nurtured flexibility, innovation, and creativity in developing ideas. These qualities and experiences have prepared me to adapt effectively and take on leadership roles with confidence",
+    "Hard_Skills":"Possessing strong leadership and team management skills, I have led diverse teams across various projects and events, ensuring clear direction and smooth collaboration. My experience in public speaking and coordination has strengthened my ability to communicate effectively in technical and non-technical environments. I’m also highly adaptable, with solid time management and problem-solving skills that help me stay organized and solution-oriented under pressure. ",
+    "Soft_Skills:":"Machine Learning, Deep Learning, Python, C, Java, React.js, JavaScript, HTML, CSS, SQL, Figma.",
+    "Language":"English, Mandarin (Not Fluent),Teochew, Indonesia"
+  },
+  "projects": [
+  {
+    "name": "Explore ID",
+    "description": "ExploreID is a web-based digital platform built with React and integrated with a Supabase backend. It utilises machine learning to deliver personalised tourism recommendations, automated itinerary planning, and local tour guide selection, enhancing travel experiences and promoting inclusive digital employment in Indonesia.",
+    "impact": "ExploreID berpotensi mendorong ekonomi pariwisata dan UMKM melalui rekomendasi personal yang menaikkan belanja wisatawan dan memeratakan kunjungan ke kota non-mainstream, sekaligus membuka lapangan kerja inklusif bagi pemandu lokal (termasuk kelompok rentan) lewat sistem matching, rating, dan micro-credential; di sisi pengguna, itinerary otomatis yang memperhitungkan preferensi, anggaran, mobilitas, dan keamanan meningkatkan kualitas pengalaman (NPS/CSAT, waktu perencanaan lebih singkat) serta menurunkan refund/complaint; dari aspek keberlanjutan, rute efisien dan opsi transport rendah emisi membantu menekan jejak karbon serta mengurangi kepadatan destinasi melalui penyebaran kunjungan; sementara data agregat (heatmap demand, konversi tiket, tren minat) memberi intelijen bagi DMO/pemerintah untuk kampanye yang lebih tepat sasaran; keberhasilan dapat dipantau lewat KPI seperti % transaksi ke UMKM/guide lokal, itinerary completion rate, LOS kota sekunder, adopsi transport publik/EV, dan peningkatan pendapatan median pemandu—sehingga tercapai pariwisata Indonesia yang lebih inklusif, aman, dan berkelanjutan.",
+    "tech_stack": ["React.js", "SQL", "Python"],
+    "repo_url": "https://github.com/revckries/ExploreID"
+  },
+  {
+    "name": "Diebety AI Predict",
+    "description": "Web app prediksi risiko diabetes berbasis machine learning yang menggabungkan Logistic Regression, Random Forest, dan XGBoost, dilengkapi preprocessing dan seleksi fitur berbasis SHAP, serta dideploy dengan Streamlit untuk penilaian risiko berbasis indikator kesehatan.",
+    "impact": "Meningkatkan deteksi dini dan literasi kesehatan dengan memberikan estimasi risiko yang mudah dipahami, membantu triase di layanan primer serta prioritisasi pemeriksaan lanjutan; interpretabilitas SHAP meningkatkan kepercayaan klinis dan edukasi pasien, berpotensi menurunkan biaya komplikasi jangka panjang melalui intervensi preventif yang lebih cepat.",
+    "tech_stack": ["Python", "Machine Learning"],
+    "repo_url": "https://kyhr-app.streamlit.app"
+  },
+  {
+    "name": "SkolioCheck (ScolioVis)",
+    "description": "Proyek deep learning yang memanfaatkan CNN berbasis VGG16 untuk mendeteksi skoliosis dari citra X-ray; alur kerja meliputi preprocessing citra, fine-tuning model, dan evaluasi performa untuk mendukung screening radiologis.",
+    "impact": "Mempercepat skrining skoliosis dan membantu tenaga kesehatan memprioritaskan rujukan, khususnya di daerah dengan keterbatasan spesialis; potensi menekan waktu diagnosis dan biaya dengan decision-support awal, seraya membuka peluang tele-radiology dan pelatihan model berkelanjutan untuk peningkatan akurasi.",
+    "tech_stack": ["Python", "Artificial Intelligence", "Figma"],
+    "repo_url": "https://github.com/Andysaputra1/Scoliovis"
+  },
+  {
+    "name": "ASPHALT 9: REJENDS",
+    "description": "Situs web interaktif bertema gim balap yang dikembangkan end-to-end menggunakan HTML, CSS, dan JavaScript, mencakup desain antarmuka (Figma) serta implementasi front-end yang responsif.",
+    "impact": "Mendemonstrasikan kemampuan full-stack front-end: arsitektur komponen, performa, dan UX interaktif; berguna sebagai portofolio praktis untuk kolaborasi tim, standardisasi style guide, serta pengembangan fitur UI berbasis animasi dan interaksi pengguna.",
+    "tech_stack": ["HTML", "CSS", "JavaScript", "Figma"],
+    "repo_url": "https://andysaputra1.github.io/Asphalt"
+  }
+],
+  "Education": [
+    {
+      "institution": "Binus University",
+      "campus": "Alam Sutera",
+      "degree": "B.Sc. Computer Science",
+      "stream": "System Intelligence",
+      "start_date": "2023-07",
+      "end_date_expected": "2027-07",
+      "gpa": "3.67/4.00 (Semester 4)",
+      "coursework": [
+        "Deep Learning",
+        "Machine Learning",
+        "Software Engineering",
+        "Object-Oriented Programming",
+        "Data Structures and Algorithms"
+      ],
+      "activities": [
+        "Advisor & former activist, BINUS TV Club",
+        "Activist, BINUSIAN Basketball"
+      ]
+    },
+    {
+      "institution": "SMAS Pelita Utama",
+      "location": "Batam",
+      "program": "Science (IPA)",
+      "start_date": "2020-07",
+      "end_date": "2023-04",
+      "activities": [
+        "President, Student Representative Council (MPK)",
+        "Project Director, major school events"
+      ]
+    }
+  ], 
+  "experiences": [
+    {
+      "organization": "BINUS University",
+      "location": "Alam Sutera",
+      "role": "Freshmen Leader",
+      "start_date": "2025-08",
+      "end_date": "2025-09",
+      "highlights": [
+        "Mentored first-year students on Binusian values, academic readiness, and campus navigation.",
+        "Facilitated onboarding sessions and provided 1:1 guidance to support a smooth transition into academics and student life."
+      ],
+      "skills": ["Mentoring", "Orientation", "Communication", "Student Engagement"]
+    },
+    
+    {
+      "organization": "BINUS TV Club",
+      "location": "Alam Sutera",
+      "role": "Technical Advisor – Core Development",
+      "start_date": "2023-08",
+      "end_date": "2025-12",
+      "projects": [
+        "Public Service Announcement (PSA)",
+        "Media Journey",
+        "Glimpse of BINUSTV Club",
+        "LDKA"
+      ],
+      "responsibilities": [
+        "Provided technical mentorship to new activists on best practices, tools, and troubleshooting methods.",
+        "Reviewed progress, gave actionable feedback, and unblocked technical issues to keep deliverables on track.",
+        "Standardized simple workflows/playbooks for post-production and file management."
+      ],
+      "skills": ["Technical Direction", "Coaching & Mentoring", "Process Documentation", "Problem Solving"]
+    },
+    {
+      "organization": "BINUS TV Club",
+      "location": "Alam Sutera",
+      "role": "Technical Coordinator (Buram EXPO)",
+      "start_date": "2024-12",
+      "end_date": "2025-01",
+      "projects": ["Buram EXPO"],
+      "responsibilities": [
+        "Managed crew scheduling, equipment setup, and live show operations.",
+        "Coordinated cross-division communication and resolved on-site technical issues to ensure continuity.",
+        "Prepared contingency plans for equipment and timeline risks."
+      ],
+      "skills": ["Live Event Ops", "Crew Management", "Cross-Functional Coordination", "Risk Mitigation"]
+    },
+    {
+      "organization": "BINUS TV Club",
+      "location": "Alam Sutera",
+      "role": "Technical Crew",
+      "start_date": "2023-08",
+      "end_date": "2025-12",
+      "projects": [
+        "Pengabdian kepada Masyarakat",
+        "Public Service Announcement (PSA)",
+        "Express Reels Excellence",
+        "LDKA"
+      ],
+      "responsibilities": [
+        "Assisted equipment preparation and venue setup according to event requirements.",
+        "Operated tools during production and supported smooth technical execution.",
+        "Performed breakdown and post-event checks to maintain equipment readiness."
+      ],
+      "skills": ["Equipment Setup", "On-site Operations", "Attention to Detail", "Teamwork"]
+    },
+    {
+      "organization": "BINUS TV Club",
+      "location": "Alam Sutera",
+      "role": "Editor",
+      "start_date": "2023-08",
+      "end_date": "2025-12",
+      "projects": ["Public Service Announcement (PSA)", "Uni-Verse Diaries"],
+      "responsibilities": [
+        "Owned end-to-end editing (video/audio), from ingesting raw footage to final mastering.",
+        "Ensured narrative consistency, visual continuity, and sound quality aligned with the event theme.",
+        "Collaborated with directors/producers to incorporate feedback efficiently."
+      ],
+      "skills": ["Video Editing", "Audio Post", "Storytelling", "Quality Control"]
+    },
+
+    {
+      "organization": "Church Community GMS",
+      "location": "Alam Sutera",
+      "role": "Project Director; Vice Leader (Cell Group)",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "projects": ["Reignate", "Impact"],
+      "highlights": [
+        "Led end-to-end planning and execution of youth events; aligned all activities with core concept and values.",
+        "Appointed division leaders, defined roles, and unified teams under one cohesive direction.",
+        "Provided regular coordination and care as vice leader to support member growth."
+      ],
+      "skills": ["Project Leadership", "Team Building", "Stakeholder Management", "Community Engagement"]
+    },
+
+    {
+      "organization": "BINUSIAN Basketball",
+      "location": "Alam Sutera",
+      "role": "Creative & Fun Division",
+      "start_date": "2024-08",
+      "end_date": "2025-12",
+      "highlights": [
+        "Produced digital assets and social media content for program communications.",
+        "Led internal communication for the creative/design team to meet requirements and deadlines."
+      ],
+      "skills": ["Content Design", "Social Media", "Team Communication"]
+    },
+
+    {
+      "organization": "Teach For Indonesia",
+      "location": "Alam Sutera",
+      "role": "Volunteer",
+      "start_date": "2023-08",
+      "end_date": "2024-12",
+      "highlights": [
+        "Supported anti-corruption awareness initiatives through community engagement.",
+        "Contributed to marine protection via waste observation and public education."
+      ],
+      "skills": ["Public Awareness", "Environmental Advocacy", "Community Service"]
+    },
+
+    {
+      "organization": "ICM Batam Centre & Graha Mas",
+      "location": "Batam",
+      "role": "Volunteer Visual & Multimedia Coordinator",
+      "start_date": "2022-01",
+      "end_date": "2023-07",
+      "highlights": [
+        "Managed multimedia visual displays and ensured seamless AV operations during events.",
+        "Substituted as Floor Director to maintain run-of-show when required."
+      ],
+      "skills": ["Multimedia Ops", "Live Event Management", "Operational Continuity"]
+    },
+
+    {
+      "organization": "Student Representative Council (MPK), SMAS Pelita Utama",
+      "location": "Batam",
+      "role": "Project Director",
+      "start_date": "2022-08",
+      "end_date": "2022-12",
+      "projects": ["OSIS Election 2022", "Christmas Dinner"],
+      "highlights": [
+        "Planned and executed key school events aligned with school values and goals.",
+        "Managed cross-functional teams, delegated tasks, and oversaw timelines for on-time delivery."
+      ],
+      "skills": ["Event Management", "Leadership", "Cross-Functional Coordination"]
+    }
+  ],
+  "faqs": [
+    { "q": "Relocation?", "a": "Open for discussion case-by-case." },
+    { "q": "Linkedin Link", "a": "https://www.linkedin.com/in/andy-saputra-586b22247/" }
+  ]
+}
