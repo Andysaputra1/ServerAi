@@ -5,7 +5,8 @@
     "summary": "As a Computer Science student majoring in Artificial Intelligence, I possess strong enthusiasm and eagerness to learn across fields, including technology, broadcasting, and more. My diverse experiences have broadened my perspectives, enhanced my communication skills, and nurtured flexibility, innovation, and creativity in developing ideas. These qualities and experiences have prepared me to adapt effectively and take on leadership roles with confidence",
     "Hard_Skills":"Possessing strong leadership and team management skills, I have led diverse teams across various projects and events, ensuring clear direction and smooth collaboration. My experience in public speaking and coordination has strengthened my ability to communicate effectively in technical and non-technical environments. I’m also highly adaptable, with solid time management and problem-solving skills that help me stay organized and solution-oriented under pressure. ",
     "Soft_Skills:":"Machine Learning, Deep Learning, Python, C, Java, React.js, JavaScript, HTML, CSS, SQL, Figma.",
-    "Language":"English, Mandarin (Not Fluent),Teochew, Indonesia"
+    "Language":"English, Mandarin (Not Fluent),Teochew, Indonesia",
+    "Achievement":"Second Place in SIM Business Competition Plan 2022(Batam)."
   },
   "projects": [
   {
@@ -13,7 +14,7 @@
     "description": "ExploreID is a web-based digital platform built with React and integrated with a Supabase backend. It utilises machine learning to deliver personalised tourism recommendations, automated itinerary planning, and local tour guide selection, enhancing travel experiences and promoting inclusive digital employment in Indonesia.",
     "impact": "ExploreID berpotensi mendorong ekonomi pariwisata dan UMKM melalui rekomendasi personal yang menaikkan belanja wisatawan dan memeratakan kunjungan ke kota non-mainstream, sekaligus membuka lapangan kerja inklusif bagi pemandu lokal (termasuk kelompok rentan) lewat sistem matching, rating, dan micro-credential; di sisi pengguna, itinerary otomatis yang memperhitungkan preferensi, anggaran, mobilitas, dan keamanan meningkatkan kualitas pengalaman (NPS/CSAT, waktu perencanaan lebih singkat) serta menurunkan refund/complaint; dari aspek keberlanjutan, rute efisien dan opsi transport rendah emisi membantu menekan jejak karbon serta mengurangi kepadatan destinasi melalui penyebaran kunjungan; sementara data agregat (heatmap demand, konversi tiket, tren minat) memberi intelijen bagi DMO/pemerintah untuk kampanye yang lebih tepat sasaran; keberhasilan dapat dipantau lewat KPI seperti % transaksi ke UMKM/guide lokal, itinerary completion rate, LOS kota sekunder, adopsi transport publik/EV, dan peningkatan pendapatan median pemandu—sehingga tercapai pariwisata Indonesia yang lebih inklusif, aman, dan berkelanjutan.",
     "tech_stack": ["React.js", "SQL", "Python"],
-    "repo_url": "https://github.com/revckries/ExploreID"
+    "repo_url": "https://exploreid-one.vercel.app/"
   },
   {
     "name": "Diebety AI Predict",
